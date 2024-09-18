@@ -24,5 +24,8 @@ TBD.
 - Product Standard
 - Acceptance Criteria Standard
 
+## Deployment
+- [General](./deployment.md)
+
 ## Operations & Monitoring
 TBD.
