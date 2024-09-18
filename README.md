@@ -27,7 +27,7 @@ TBD.
 - Formulir Cek Modul Kategori Aplikasi
 - Acceptance Criteria Standard
 
-## Deployment
+## Deployment (CI/CD)
 - [General](./deployment.md)
 
 ## Operations & Monitoring
