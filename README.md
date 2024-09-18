@@ -24,8 +24,8 @@ Dengan perubahan isi dan penyesuaian pada lingkungan pengembangan di Dinas Komun
 - [Informasi Umum](./mobile.md)
 
 ## Quality Assurance
-- Formulir Cek Modul Kategori Aplikasi (TBD)
-- Formulir Standar Acceptance Criteria (TBD)
+- Formulir Standar Acceptance Criteria (AC) (TBD)
+- [Referensi 1](https://medium.com/codexstories/cara-membuat-acceptance-criteria-ac-7d3b3c171d4e)
 
 ## Deployment (CI/CD)
 - [Informasi Umum](./deployment.md)
