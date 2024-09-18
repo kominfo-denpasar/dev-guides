@@ -61,6 +61,6 @@ Yang diperlukan saat Deployment sprint mobile android ke production adalah :
 - Publikasi dan sosialisasi perubahan yang terdapat pada `Document guideline` kepada seluruh Developer yang bersangkutan.
 
 ### Pedoman Penangaan Request dari Klien untuk Join Source Code Management
-Pedoman penanganan request dari klien untuk join source management (gitlab.skyshi.io) sebagai berikut :
+Pedoman penanganan request dari klien untuk join source management sebagai berikut :
 - Permintaan dari klien harus dikonfirmasi dan mendapat approval oleh COO
 - Klien hanya diberikan akses _`read only`_
