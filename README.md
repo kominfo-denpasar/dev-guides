@@ -6,32 +6,34 @@ Dokumen ini diadaptasi dari [GDS.UK](https://www.gov.uk/government/publications/
 Dengan perubahan isi dan penyesuaian pada lingkungan pengembangan di Dinas Komunikasi, Informasi dan Statistik Kota Denpasar.
 
 ## System Architecture
-TBD.
 - Standarisasi Aplikasi sesuai dengan syarat dan dokumen standarisasi (TBD)
+- Dokumen lainnya terkait sistem desain, arsitektur aplikasi, dll (TBD)
 
 ## Team Development Workflow
-- Project Management
+- Workflow/Alur Project Management (TBD)
 - [Git Workflow](./git_workflow.md)
-- Clean Code
+- Tools & Aplikasi Pendukung (TBD)
 
 ## Frontend Development
-- [General](./frontend.md)
+- [Informasi Umum](./frontend.md)
 
 ## Backend Development
-- [General](./backend.md)
+- [Informasi Umum](./backend.md)
 
 ## Mobile Development
-- [General](./mobile.md)
+- [Informasi Umum](./mobile.md)
 
 ## Quality Assurance
-- Formulir Cek Modul Kategori Aplikasi
-- Acceptance Criteria Standard
+- Formulir Cek Modul Kategori Aplikasi (TBD)
+- Formulir Standar Acceptance Criteria (TBD)
 
 ## Deployment (CI/CD)
-- [General](./deployment.md)
+- [Informasi Umum](./deployment.md)
 
 ## Operations & Monitoring
-TBD.
+- [Informasi Umum](TBD)
+- Tools & Aplikasi Pendukung (TBD)
 
 ## Security
-TBD.
+- Standar keamanan Aplikasi, Server & Jaringan (TBD)
+- Alur Penaganan Insiden CSIRT (TBD)
