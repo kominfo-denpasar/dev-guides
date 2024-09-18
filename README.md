@@ -1,8 +1,8 @@
 # Development Guides
 
 ## Technology Code of Practice
-TBD. 
-Untuk dokumen ini diadaptasi dari [GDS.UK](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice). 
+Dokumen berisi dokumentasi informasi bagaimana cara dan bekerja di lingkungan development. 
+Dokumen ini diadaptasi dari [GDS.UK](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice). 
 Dengan perubahan isi dan penyesuaian pada lingkungan pengembangan di Dinas Komunikasi, Informasi dan Statistik Kota Denpasar.
 
 ## System Architecture
